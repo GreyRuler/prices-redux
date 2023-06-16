@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/prices-redux/static/css/main.c467936b.css",
+    "main.js": "/prices-redux/static/js/main.df552903.js",
+    "static/js/364.16dccfb1.chunk.js": "/prices-redux/static/js/364.16dccfb1.chunk.js",
+    "static/js/787.4322f324.chunk.js": "/prices-redux/static/js/787.4322f324.chunk.js",
+    "index.html": "/prices-redux/index.html",
+    "main.c467936b.css.map": "/prices-redux/static/css/main.c467936b.css.map",
+    "main.df552903.js.map": "/prices-redux/static/js/main.df552903.js.map",
+    "364.16dccfb1.chunk.js.map": "/prices-redux/static/js/364.16dccfb1.chunk.js.map",
+    "787.4322f324.chunk.js.map": "/prices-redux/static/js/787.4322f324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c467936b.css",
+    "static/js/main.df552903.js"
+  ]
+}
